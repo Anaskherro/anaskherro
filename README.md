@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a PhD student with an engineering degree in robotics and control, i've worked on various platforms such as UAV's, USV's and UGV's. 
+I'm an engineer specializing on industrial automation, control and robotics.
 
 
 ## 🌐 Socials:
